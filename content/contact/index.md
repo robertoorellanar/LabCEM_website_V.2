@@ -7,11 +7,11 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contacto
       text: |-
-        no se que poner aca.
-      email: test@example.org
-      phone: 888 888 88 88
+        Si te llama la atención los microorganismos o te interesa la fisiología o la ecología microbiana......contáctanos!
+      email: roberto.orellana@upla.cl
+      # phone: 888 888 88 88
       address:
         street: 450 Serra Mall
         city: Stanford
