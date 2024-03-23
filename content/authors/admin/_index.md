@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: LaBCEM 
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: Laboratorio de Biología Celular 
+last_name: y Ecofisiología Microbiana 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Professor of nada
 
 # Organizations/Affiliations
 organizations:
