@@ -9,7 +9,7 @@ sections:
     content:
       title: Contacto
       text: |-
-        Si te llama la atención los microorganismos o te interesa la fisiología o la ecología microbiana......contáctanos!
+        Si te llama la atención la ciencia aplicada, los microorganismos o te interesa la fisiología o la ecología microbiana......contáctanos!
       email: roberto.orellana@upla.cl
       # phone: 888 888 88 88
       address:
@@ -20,8 +20,8 @@ sections:
         country: Chile
         # country_code: US
       coordinates:
-        latitude: '253274.70'
-        longitude: '6343303.00'
+        latitude: '-33.020917'
+        longitude: '-71.641695'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Lunes a Viernes 9:00 to 17:00'
