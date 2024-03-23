@@ -20,8 +20,8 @@ sections:
         country: Chile
         # country_code: US
       coordinates:
-        latitude: '33.021135'
-        longitude: '71.641563'
+        latitude: '71.641563'
+        longitude: '33.021135'
       # directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
         - 'Lunes a Viernes 9:00 to 17:00'
