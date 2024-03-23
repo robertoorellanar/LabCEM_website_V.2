@@ -13,7 +13,7 @@ sections:
       email: roberto.orellana@upla.cl
       # phone: 888 888 88 88
       address:
-        street: Fac. de Ciencias Naturales y Exactas, Universidad de Playa Ancha. Subida Leopoldo Carvallo 270, Playa Ancha 
+        street: Facultad de Ciencias Naturales y Exactas de la Universidad de Playa Ancha. Subida Leopoldo Carvallo 270, Playa Ancha 
         city: Valparaíso
         region: Valparaíso
         postcode: '2360002'
